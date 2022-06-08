@@ -1,0 +1,19 @@
+Yemek ID: 1
+Yemek Adi: dolma        5 Eded
+Yemek Qiymeti: 35 Azn
+Yemek ID: 4
+Yemek Adi: Sushi Baliqli 5 Eded
+Yemek Qiymeti: 75 Azn
+Umumi Qiymet: 110 Azn
+====================================
+Yemek ID: 1
+Yemek Adi: dolma        5 Eded
+Yemek Qiymeti: 35 Azn
+Yemek ID: 2
+Yemek Adi: sezar salati 6 Eded
+Yemek Qiymeti: 30 Azn
+Yemek ID: 3
+Yemek Adi: paytaxt salati 5 Eded
+Yemek Qiymeti: 25 Azn
+Umumi Qiymet: 90 Azn
+====================================
